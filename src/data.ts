@@ -35,16 +35,4 @@ export const products = [
     price: "£0.57",
     quantity: 87
   },
-  {
-    id: "7",
-    name: "Grapes",
-    price: "£1.53",
-    quantity: 52
-  },
-  {
-    id: "8",
-    name: "Mushrooms",
-    price: "£0.95",
-    quantity: 13
-  }
 ];
