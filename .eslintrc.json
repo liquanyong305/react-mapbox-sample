@@ -12,12 +12,20 @@
   "rules": {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
-    "react/prop-types": "off"
+    "react/prop-types": "off",
+    "@typescript-eslint/ban-ts-ignore": "off",
+    "@typescript-eslint/ban-ts-comment": "off"
   },
   "settings": {
     "react": {
       "pragma": "React",
       "version": "detect"
+    },
+    "import/resolver": {
+      "node": {
+        "extensions": "['.js', '.jsx', '.json', '.ts', '.tsx']"
+      },
+      "typescript": {}
     }
   }
 }

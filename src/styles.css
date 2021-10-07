@@ -1,0 +1,53 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+nav a {
+  padding: 5px 10px;
+  text-decoration: none;
+  color: #246f6b;
+}
+nav a.active {
+  background-color: #38b2ac;
+  color: white;
+  border-radius: 2px;
+}
+input {
+  line-height: 1.25;
+  border: 1px solid #bfb9b9;
+  border-radius: 2px;
+  padding: 3px 5px;
+  color: gray;
+  display: block;
+}
+input:focus {
+  outline: gray;
+}
+
+.product-list {
+  margin: 20px 0px;
+  display: flex;
+  flex-direction: column;
+}
+.product-list a {
+  color: #2d3748;
+  text-decoration: none;
+}
+
+button {
+  margin-top: 10px;
+  background-color: #38b2ac;
+  border-radius: 2px;
+  border: 0;
+  color: white;
+  padding: 8px 12px;
+}
+
+a.link {
+  padding: 5px 10px;
+  text-decoration: none;
+  background-color: #38b2ac;
+  color: white;
+  border-radius: 2px;
+}

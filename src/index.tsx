@@ -1,25 +1,7 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import "./index.css";
-import heading from "./heading.module.css";
-import content from "./content.module.css";
+import * as React from "react";
+import { render } from "react-dom";
 
-const App = () => (
-  <>
-    <Heading />
-    <Content />
-  </>
-);
+import App from "./App";
 
-const Heading = () => (
-  <h1 className={heading.heading}>My React and TypeScript App</h1>
-);
-
-const Content = () => <div className={content.content}>With CSS!</div>;
-
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById("root")
-);
+const rootElement = document.getElementById("root");
+render(<App />, rootElement);

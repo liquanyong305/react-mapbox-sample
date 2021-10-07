@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "1",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.667805,
+          35.799265
+        ],
+        "type": "Point"
+      },
+      "id": "1c341a0710333109ebf4b7080c1037c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "2",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.793153,
+          35.759012
+        ],
+        "type": "Point"
+      },
+      "id": "562649935539909babfccfceae2b273e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "3",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.756854,
+          35.768547
+        ],
+        "type": "Point"
+      },
+      "id": "5a25a6880bbf266cc13955d177dc09f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "4",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.833891,
+          35.724463
+        ],
+        "type": "Point"
+      },
+      "id": "7ade1b075f36e191f9214c54ba15f568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "5",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.58333,
+          35.857937
+        ],
+        "type": "Point"
+      },
+      "id": "90d763890937f04cf12180dbaebdecc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "6",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.85184,
+          35.707075
+        ],
+        "type": "Point"
+      },
+      "id": "bc44fdb1b2c01ab1fa923dcf95c439a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "7",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.619646,
+          35.8242
+        ],
+        "type": "Point"
+      },
+      "id": "c09c27a071679741087c9bc1bcaf6fac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "8",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.843395,
+          35.67354
+        ],
+        "type": "Point"
+      },
+      "id": "c401c0f7bc8510e206192ba889ba8b1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "9",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.71142,
+          35.790128
+        ],
+        "type": "Point"
+      },
+      "id": "dccfbc3f1d3d7e4e6be8e0dbe6d4b26d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensorId": "10",
+        "sensorData": [
+          {"date": "2021-08-09T10:10", "value": 1},
+          {"date": "2021-08-09T10:20", "value": 2},
+          {"date": "2021-08-09T10:30", "value": 3},
+          {"date": "2021-08-09T10:40", "value": 1},
+          {"date": "2021-08-09T10:50", "value": 2},
+          {"date": "2021-08-09T11:00", "value": 3},
+          {"date": "2021-08-09T11:10", "value": 3},
+          {"date": "2021-08-09T11:20", "value": 3},
+          {"date": "2021-08-09T11:30", "value": 3},
+          {"date": "2021-08-09T11:40", "value": 3},
+          {"date": "2021-08-09T11:50", "value": 3}
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          139.636876,
+          35.802489
+        ],
+        "type": "Point"
+      },
+      "id": "f24c3b0c7dc75d658e6a82172881e2a1"
+    }
+  ]
+}

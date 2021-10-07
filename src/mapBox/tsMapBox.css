@@ -1,0 +1,29 @@
+.sidebarStyle {
+  border-radius: 6px;
+  font-family: 'Open sans';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 65px;
+  background-color: #404040;
+  color: #ffffff;
+  z-index: 1 !important;
+  padding: 6px;
+  font-weight: regular;
+}
+
+.mapContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin-top: 60px;
+}
+
+.mapboxgl-popup {
+  max-width: 400px;
+  font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
